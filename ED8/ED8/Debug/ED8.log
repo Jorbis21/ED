@@ -1,0 +1,5 @@
+﻿  ED8.cpp
+  ParqueDeAtracciones.cpp
+  Generando código...
+D:\Pogramas\ED8\ED8\ParqueDeAtracciones.cpp(68): error C4716: 'ParqueDeAtracciones::numero_visitas': debe devolver un valor
+D:\Pogramas\ED8\ED8\ParqueDeAtracciones.cpp(60): error C4716: 'ParqueDeAtracciones::atracciones_visitadas': debe devolver un valor
