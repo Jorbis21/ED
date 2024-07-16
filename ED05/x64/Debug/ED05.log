@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Pogramas\C_C++\ED05\cola.h(55,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Pogramas\C_C++\ED05\cola.h(49): message : al compilar la función del miembro clase plantilla "void Cola<int>::llevarAlPrincipio(unsigned int)"
+C:\Pogramas\C_C++\ED05\main.cpp(17): message : Vea la referencia a la creación de una instancia de la función plantilla "void Cola<int>::llevarAlPrincipio(unsigned int)" que se está compilando
+C:\Pogramas\C_C++\ED05\main.cpp(7): message : Vea la referencia a la creación de una instancia de clase plantilla "Cola<int>" que se está compilando
+  ED05.vcxproj -> C:\Pogramas\C_C++\ED05\x64\Debug\ED05.exe

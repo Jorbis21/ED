@@ -1,0 +1,4 @@
+﻿  Tema 4_2.cpp
+C:\Pogramas\C_C++\Tema 4_2\Tema 4_2.cpp(49,11): warning C4101: 'val': variable local sin referencia
+C:\Pogramas\C_C++\Tema 4_2\Tema 4_2.cpp(48,17): warning C4101: 'i': variable local sin referencia
+  Tema 4_2.vcxproj -> C:\Pogramas\C_C++\Tema 4_2\x64\Debug\Tema 4_2.exe

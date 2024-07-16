@@ -1,0 +1,3 @@
+﻿  GestionAdmisiones.cpp
+C:\Pogramas\C_C++\2017ej3\GestionAdmisiones.cpp(38): warning C4715: 'nivel_Gravedad': no todas las rutas de acceso de control devuelven un valor
+  2017ej3.vcxproj -> C:\Pogramas\C_C++\2017ej3\x64\Debug\2017ej3.exe
